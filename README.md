@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Aryan
+- 👋 Hi, I’m Aryan. 
  Currently engaging with Web Development projects and Cyber Security challenges, I aspire to become a full stack web developer and/or cyber security researcher!
 
 <!---
