@@ -1,9 +1,9 @@
-- 👋 Hi, I’m Aryan. 
+# Hey there, I'm Aryn! 👋
+
+Welcome to my GitHub profile! I'm a 20-year-old software enthusiast on a journey to learn and explore the world of programming. 
+Currently, I'm focused on mastering Golang and experimenting with various Python libraries. 
 
 
-<!---
-aryyyn/aryyyn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aryyyn)
